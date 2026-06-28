@@ -1,0 +1,19 @@
+1. Briefly summarize the DriverPass project. Who was sthe client ? What type of system did they want you to design ? 
+
+Driverpass was the client for this project. The company wanted a system that would help students prepare for their driving tests by providing online practice exams, scheduling behind the wheel driving lessons and allowing instructors and administrators to manage appointments and student information. The goal was to create a secure, easy to use web based sytem that would improve the learning experience while making it easier for driverpass employees to manage their daily operations. 
+
+2. What did you do particularly well?
+
+I believe I did a good job identifying the client's requirements and organizing them into clear business and system design documents. I carefully considered the different users of the system, including students, instructors, administrators, and the owner, to ensure each user's needs were addressed. I also created UML diagrams that clearly illustrated how the different parts of the system would interact, making the design easier for both technical and nontechnical audiences to understand.
+
+3. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+If I could revise one part of my work, I would improve the UML diagrams by making them more detailed and easier to read. After learning more about system design throughout the course, I better understand how activity diagrams, sequence diagrams, and use case diagrams can communicate system behavior. I would include additional relationships, more detailed process flows, and clearer labeling to make the overall design even stronger.
+
+4. How did you interpret the user's needs and implement them into your system design? Why is it so important to consider the user's needs when designing?
+
+I interpreted the user's needs by carefully reviewing the DriverPass interview transcript and identifying the features the client considered most important. I translated those requirements into functional and nonfunctional requirements, business rules, and UML diagrams that demonstrated how the system would operate. Considering the user's needs is essential because the success of a system depends on how well it solves the client's problems. Designing around user requirements helps create software that is useful, efficient, and meets the expectations of everyone who will use it.
+
+5. How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+I approach software design by first understanding the client's goals and gathering all of the system requirements before creating any designs. Once I understand the problem, I organize the requirements and use diagrams such as use case, activity, and sequence diagrams to plan how the system should function. In the future, I will continue using structured analysis techniques, UML modeling, and regular feedback from stakeholders throughout the design process. These strategies help identify problems early, improve communication with clients, and create systems that are easier to develop, maintain, and expand over time.
